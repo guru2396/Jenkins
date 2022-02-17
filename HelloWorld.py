@@ -2,4 +2,3 @@
 
 print("Hello from Poll SCM\n")
 print("Hello from Poll SCM\n")
-
