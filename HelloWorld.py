@@ -2,4 +2,4 @@
 
 print("Hello from Poll SCM\n")
 print("Hello from Poll SCM\n")
-print("Hello from GitSCM Polling\n")
+print("Hello from GitSCM polling\n")
